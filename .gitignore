@@ -1,0 +1,10 @@
+# Checkpoints
+checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebook cache
+.ipynb_checkpoints/
+model/dnn.py
