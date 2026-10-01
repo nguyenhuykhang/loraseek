@@ -42,9 +42,8 @@ pip install -r requirements.txt
 ---
 
 ## Dataset
-
-**Dataset release: Coming soon.**
-
+- Dataset: [LoRaSeek HF Dataset](https://huggingface.co/datasets/kangnguyen/LoRaSeek-Dataset) 
+- Pretrained checkpoints: [LoRaSeek HF Model](https://huggingface.co/kangnguyen/LoRaSeek_SF7_Large)
 ---
 
 ## Training

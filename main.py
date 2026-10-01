@@ -9,7 +9,6 @@ import logging
 
 # model files import their siblings (transformer, localvit) as top-level modules
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model'))
-
 import utils
 import data_loader
 import run
