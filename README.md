@@ -63,7 +63,7 @@ Useful options:
 
 | Option | Default | Description |
 | --- | --- | --- |
-| `--snr_list` | `-20 ... -11` | SNR levels (dB) to load from the dataset |
+| `--snr_list` | `-35 ... -11` | SNR levels (dB) to load from the dataset |
 | `--train_ratio` | `0.8` | Fraction of samples used for training; the rest is used for testing |
 | `--alpha` / `--beta` |  | Weights of the spectrogram MSE loss and the classification loss |
 | `--use_checkpoint` | off | Initialize from `--ckpt_path` before training |
